@@ -2,7 +2,7 @@
 
 🎓 Estudante do último período de Análise e Desenvolvimento de Sistemas  
 💻 Estagiária de Desenvolvimento Full Stack na ZCK Software Solutions  
-🌍 Inglês fluente (C2)  
+🌍 Inglês fluente (C1)  
 
 ## 🚀 Tecnologias que uso(já usei):
 - C#, ASP.NET, HTML, CSS, TypeScript
