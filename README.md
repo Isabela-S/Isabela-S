@@ -1,4 +1,4 @@
-# 👋 Oi, meu nome é Isabela Scalet
+# 👋 Um pouco sobre mim:
 
 🎓 Estudante do último período de Análise e Desenvolvimento de Sistemas  
 💻 Estagiária de Desenvolvimento Full Stack na ZCK Software Solutions  
