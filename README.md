@@ -1,20 +1,19 @@
-# 👋 Um pouco sobre mim:
+# 👋 About Me
 
-🎓 Estudante do último período de Análise e Desenvolvimento de Sistemas  
-💻 Estagiária de Desenvolvimento Full Stack na ZCK Software Solutions  
-🌍 Inglês fluente (C1)  
+🎓 Systems Analyst  
+🌍 Fluent in English (C1)  
+💻 Passionate about technology and continuous learning  
 
-## 🚀 Tecnologias que uso(já usei):
-- C#, ASP.NET, HTML, CSS, TypeScript
-- SQL Server, MySQL
-- Git, GitHub, Visual Studio, VS Code
+## 🚀 Tech Stack & Tools
+- Languages: C#, TypeScript, JavaScript, HTML, CSS  
+- Frameworks: ASP.NET, Angular  
+- Databases: SQL Server, MySQL  
+- Tools: Git, GitHub, Visual Studio, VS Code, Postman  
 
-## 📚 Cursos concluídos:
-- Alura: Java, JavaScript, Banco de Dados
-
-## 💡 Projetos em destaque:
-Em breve aqui no GitHub! Projetos full stack com autenticação JWT, APIs RESTful e banco de dados relacional.
+## 📚 Courses
+- Alura Training: Java, JavaScript, Databases, HTML, C#
 
 ---
 
-🔗 *Conecte comigo e acompanhe minha evolução!*
+📫 Feel free to connect and reach out: [https://www.linkedin.com/in/seu-usuario-aqui]
+
