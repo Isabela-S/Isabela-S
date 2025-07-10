@@ -15,5 +15,5 @@
 
 ---
 
-📫 Feel free to connect and reach out: [https://www.linkedin.com/in/seu-usuario-aqui]
+📫 Feel free to connect and reach out: [https://www.linkedin.com/in/isabela-scalet-84a8a3204/]
 
